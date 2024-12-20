@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Harsch-Systems/node-red-contrib-pi-plates.git"
+    "url": "git+https://github.com/africawaterdoc/node-red-contrib-pi-plates.git"
   },
   "node-red": {
     "version": ">=3.0.0",
